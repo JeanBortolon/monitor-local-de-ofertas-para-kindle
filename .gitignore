@@ -1,0 +1,17 @@
+# Banco de dados e logs gerados durante a execucao local.
+historico_kindle.db
+historico_kindle.db-*
+execucoes.log
+
+# Cache e ambientes virtuais do Python.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Configuracoes locais de editores e sistema operacional.
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
